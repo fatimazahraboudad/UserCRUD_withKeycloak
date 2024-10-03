@@ -1,0 +1,8 @@
+keycloak:
+  server-url: http://localhost:9090
+  realm: FirstApplication
+  client-id: FirstApp-rest-api
+  adminClientId: admin-cli
+  #username: admin
+  #password: admin
+  client-secret: v6JCCmrkdFPXWe3IN1W9KRyTVAk9dF7L
